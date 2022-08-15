@@ -4,7 +4,7 @@ function DashboardHeader(){
   return(
 	  <div className={styles.dashboard__header}>
 		<h2 className={styles.dashboard__header_head}>Welcome to Budget Calculator!</h2>
-		<p className={styles.dashboard__header_text}>The best application for control your cash flow.</p>
+		<p className={styles.dashboard__header_text}>The best application for control your personal worth.</p>
 	  </div>
   )
 }
